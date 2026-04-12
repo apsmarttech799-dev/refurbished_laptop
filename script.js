@@ -22,7 +22,7 @@ window.addEventListener("scroll", () => {
   const whatsappMessage =
     `Name: ${name}%0APhone: ${phone}%0ARequirement: ${message}`;
 
-  window.open(`https://wa.me/919289116099?text=${whatsappMessage}`, "_blank");
+  window.open(`https://wa.me/919341195912?text=${whatsappMessage}`, "_blank");
 });
 });
 
